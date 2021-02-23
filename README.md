@@ -2,9 +2,9 @@
  A game prototype for CSC3224 module.
  
 # Controls:
- WASD/Arrow keys: move the player (the red ship)
- Q: Shoot
- E: Switch weapons
+ WASD/Arrow keys: move the player (the red ship)<br>
+ Q: Shoot<br>
+ E: Switch weapons<br>
  
 # Game status
  The game is currently in development and is extremely WIP. 
